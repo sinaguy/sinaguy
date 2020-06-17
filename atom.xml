@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SHWEI&#39;S BLOG</title>
+  
+  <subtitle>Stay Hungry</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://weisenhui.top/"/>
+  <updated>2020-06-03T04:35:30.522Z</updated>
+  <id>https://weisenhui.top/</id>
+  
+  <author>
+    <name>SHWEI</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本科生涯总结</title>
+    <link href="https://weisenhui.top/posts/32615.html"/>
+    <id>https://weisenhui.top/posts/32615.html</id>
+    <published>2020-04-25T14:45:39.000Z</published>
+    <updated>2020-06-03T04:35:30.522Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;不管是别人告诉你，还是你从哪里读到，都不算你真正的理解。只有经历过感受过，你才会把这些道理刻在脑回路上，像一个个函数，针对特定的生活场景(参数)，调用特定的道理(函数)。函数多了之后，你面对什么样的场景都能应对自如，从而给人留下成熟、淡定自如的印象
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://weisenhui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://weisenhui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学系转计算机的心路历程</title>
+    <link href="https://weisenhui.top/posts/49535.html"/>
+    <id>https://weisenhui.top/posts/49535.html</id>
+    <published>2020-02-08T12:40:58.000Z</published>
+    <updated>2020-05-27T05:36:03.311Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2019年2月决定从数学转计算机，尽管一开始毫无基础，困难重重，但是我相信自己的学习能力。明天就是2020年2月了，整整一年过去了。我感觉这一年里的每天都是充满压力和挑战的，但是不知道为什么我总是很乐意去学编程，即使花很多时间只明白了一个知识点，也许是因为数学专业课太无聊了
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://weisenhui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://weisenhui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
